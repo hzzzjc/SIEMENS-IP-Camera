@@ -1,4 +1,5 @@
 # SIEMENS-IP-Camera
+# Please do not forward without authorization.
 ## Vulnerability Report
 ### Vulnerability Description
 Summary: Siemens monitoring has an arbitrary file read vulnerability. Attackers can read files arbitrarily through commands, affecting more than 150 devices on the Internet.
